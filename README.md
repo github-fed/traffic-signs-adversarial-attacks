@@ -41,8 +41,8 @@ This project uses **[Poetry](https://python-poetry.org/)** for dependency manage
 Make sure `pyenv` is installed, then run:
 
 ```bash
-pyenv install 3.10.12
-pyenv local 3.10.12
+pyenv install 3.12.9
+pyenv local 3.12.9
 poetry shell
 poetry install
 ```
